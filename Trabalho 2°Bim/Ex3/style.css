@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#f8fafc;
+    padding:40px;
+}
+
+h1{
+    text-align:center;
+    color:#2563eb;
+    margin-bottom:20px;
+}
+
+p{
+    text-align:center;
+}
+
+table{
+    width:500px;
+    margin:auto;
+    border-collapse:collapse;
+    background:white;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+td{
+    border:1px solid #ddd;
+    padding:12px;
+    text-align:center;
+}
+
+tr:first-child{
+    background:#2563eb;
+    color:white;
+}
+
+input{
+    width:300px;
+    display:block;
+    margin:auto;
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+h3{
+    text-align:center;
+}
+
+#Resultado{
+    text-align:center;
+    color:#16a34a;
+    font-size:22px;
+    font-weight:bold;
+}

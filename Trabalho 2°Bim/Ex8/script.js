@@ -1,0 +1,1 @@
+function calc(){let s=Number(nivel.value)*Number(horas.value)*4.5;res.innerHTML=`Salário: R$ ${s.toFixed(2)}`;}

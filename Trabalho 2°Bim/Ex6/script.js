@@ -1,0 +1,1 @@
+function calc(){let t=Number(produto.value)*Number(qtd.value);res.innerHTML=`Total: R$ ${t.toFixed(2)}`;}

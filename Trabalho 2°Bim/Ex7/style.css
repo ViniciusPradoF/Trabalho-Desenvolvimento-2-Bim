@@ -1,0 +1,9 @@
+
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+body{background:#eef4ff;padding:30px}
+.container{max-width:800px;margin:auto;background:white;padding:25px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.1)}
+h1{color:#2563eb;margin-bottom:20px}
+input,select,button{width:100%;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:8px}
+button{background:#2563eb;color:white;border:none;cursor:pointer}
+button:hover{opacity:.9}
+.resultado{margin-top:15px;font-weight:bold}

@@ -1,0 +1,1 @@
+function calc(){let v=Number(valor.value);if(cond.value=='a')v*=0.9;else if(cond.value=='b')v*=0.85;else if(cond.value=='d')v*=1.1;res.innerHTML=`Valor final: R$ ${v.toFixed(2)}`;}

@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#eef4ff;
+    padding:40px;
+}
+
+h1{
+    text-align:center;
+    color:#2563eb;
+}
+
+p{
+    text-align:center;
+}
+
+table{
+    width:600px;
+    margin:auto;
+    border-collapse:collapse;
+    background:white;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+td{
+    border:1px solid #ddd;
+    padding:12px;
+    text-align:center;
+}
+
+tr:first-child{
+    background:#2563eb;
+    color:white;
+}
+
+label{
+    display:block;
+    width:350px;
+    margin:15px auto;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+h2,h3{
+    text-align:center;
+}
+
+#Cargo,
+#salAntigo,
+#salNovo,
+#Aumento{
+    text-align:center;
+    color:#16a34a;
+    font-weight:bold;
+}
